@@ -1,9 +1,10 @@
 ## Hey there 👋
 
 - I’m Musab Mufti, a 3rd year Computer Science undergrad at the University of Waterloo.
-- I will be joining TextNow as a Software Engineer Intern in Winter 2026.
+- I am currently working at TextNow as a Software Engineer Intern.
 - I worked previously at Ford as a Software Developer Intern.
-- Feel free to check out some of the projects I've worked on, below:
+- My work commits are not shown in this account.
+- Feel free to check out some of the projects I've worked on below:
 
 <!--
 - 🔭 I’m currently working on ...
