@@ -1,9 +1,9 @@
 ## Hey there 👋
 
-- I’m Musab Mufti, a 3rd year Computer Science undergrad at the University of Waterloo.
-- I am currently working at TextNow as a Software Engineer Intern.
-- I worked previously at Ford as a Software Developer Intern.
-- My work commits are not shown in this account.
+- I’m Musab Mufti, a 4th year Computer Science undergrad at the University of Waterloo.
+- I am currently working at Faire as a Software Engineer Intern.
+- I worked previously at TextNow on their calling and messaging platforms and Ford on their in-car infotainment system.
+- My most impressive contributions were made at my internships and are not shown here.
 - Feel free to check out some of the projects I've worked on below:
 
 <!--
